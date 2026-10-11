@@ -32,7 +32,8 @@ Most days that means CI/CD pipelines, deployments, and keeping a few dozen campu
 |---|---|
 | [Peace Oracle](https://oracle.peaceorc.web.id) | Zodiac, Shio, Weton, and Tarot readings in one Flask app. I built the Shio, Weton, and Tarot modules. |
 | [Detectable Games on Discord](https://franpratama.github.io/discord-games) | Search and filter every game Discord can show as "Playing", straight from Discord's API. |
-| [Hybrid CNN-LSTM IDS](https://github.com/FranPratama/Intrusion-Detection-System-with-Hybrid-CNN-LSTM) | My thesis. Classifies network traffic from UNSW-NB15, [published in Jurasik](https://tunasbangsa.ac.id/ejurnal/index.php/jurasik/article/view/895). |
+| [Discord Presence](https://github.com/FranPratama/discord-presence-games-youtube) | Background scripts that show the game you're playing, or what's on YouTube Music, as your Discord status. |
+| [Hybrid CNN-LSTM IDS](https://github.com/FranPratama/ids-hybrid-cnn-lstm) | My thesis. Classifies network traffic from UNSW-NB15, [published in Jurasik](https://tunasbangsa.ac.id/ejurnal/index.php/jurasik/article/view/895). |
 | [Animus Portfolio](https://franpratama.github.io) | Static, Assassin's Creed themed portfolio built without a framework. |
 
 More dossiers, some of them classified, at **[franpratama.github.io](https://franpratama.github.io)**.
