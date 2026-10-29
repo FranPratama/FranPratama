@@ -17,27 +17,6 @@ Most days that means CI/CD pipelines, deployments, and keeping a few dozen campu
 
 <code>DevOps Engineer @ ITB Asia Malang</code> · <code>S.Kom., GPA 3.86</code> · <code>Thesis published in Jurasik (SINTA 4)</code>
 
-<!-- ═══════════════ [ ARSENAL ] ═══════════════ -->
-## ARSENAL
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,dart,django,flask,nodejs,express,laravel,flutter&theme=dark" alt="languages and frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,bash,linux,nginx,docker,kubernetes,cloudflare,gcp,githubactions,tensorflow,sklearn&theme=dark" alt="data, devops and ml"/>
-</div>
-
-## CONTRACTS
-
-| Contract | Dossier |
-|---|---|
-| [Peace Oracle](https://oracle.peaceorc.web.id) | Zodiac, Shio, Weton, and Tarot readings in one Flask app. I built the Shio, Weton, and Tarot modules. |
-| [Detectable Games on Discord](https://franpratama.github.io/discord-games) | Search and filter every game Discord can show as "Playing", straight from Discord's API. |
-| [Discord Presence](https://github.com/FranPratama/discord-presence-games-youtube) | Background scripts that show the game you're playing, or what's on YouTube Music, as your Discord status. |
-| [Hybrid CNN-LSTM IDS](https://github.com/FranPratama/ids-hybrid-cnn-lstm) | My thesis. Classifies network traffic from UNSW-NB15, [published in Jurasik](https://tunasbangsa.ac.id/ejurnal/index.php/jurasik/article/view/895). |
-| [Animus Portfolio](https://franpratama.github.io) | Static, Assassin's Creed themed portfolio built without a framework. |
-
-More dossiers, some of them classified, at **[franpratama.github.io](https://franpratama.github.io)**.
-
 <!-- ═══════════════ [ BROTHERHOOD ] ═══════════════ -->
 ## BROTHERHOOD
 
